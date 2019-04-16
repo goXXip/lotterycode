@@ -1,4 +1,4 @@
 # lotterycode
-Transparent Lottery Script
+Transparent BTC Lottery Script
 
 Visit : https://www.btcloto.net
